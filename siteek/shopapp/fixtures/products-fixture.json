@@ -1,0 +1,158 @@
+[
+  {
+    "model": "shopapp.product",
+    "pk": 1,
+    "fields": {
+      "name": "Laptop",
+      "description": "Lorem ipsum dolor",
+      "price": "1999.00",
+      "discount": 0,
+      "created_at": "2024-11-02T05:53:31.596Z",
+      "archived": true
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 2,
+    "fields": {
+      "name": "Desktop (new)",
+      "description": "it's very smart. top!!!!",
+      "price": "2599.00",
+      "discount": 10,
+      "created_at": "2024-11-02T05:53:31.596Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 3,
+    "fields": {
+      "name": "Smartphone",
+      "description": "Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor  Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor  Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor  Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor  Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor  Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor  Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor  Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor",
+      "price": "987.00",
+      "discount": 25,
+      "created_at": "2024-11-02T05:53:31.596Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 4,
+    "fields": {
+      "name": "Tablet",
+      "description": "123345",
+      "price": "123.00",
+      "discount": 0,
+      "created_at": "2024-11-10T07:20:59.074Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 5,
+    "fields": {
+      "name": "Tablet",
+      "description": "It's a good tablet!",
+      "price": "1000.00",
+      "discount": 0,
+      "created_at": "2024-11-10T07:21:20.115Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 6,
+    "fields": {
+      "name": "Phone2",
+      "description": "Phone 2 is bretter!!. its great",
+      "price": "400.00",
+      "discount": 0,
+      "created_at": "2024-11-10T07:27:40.972Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 7,
+    "fields": {
+      "name": "Phone3",
+      "description": "phone3",
+      "price": "999.21",
+      "discount": 12,
+      "created_at": "2024-11-10T08:02:20.903Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 8,
+    "fields": {
+      "name": "Tablet3",
+      "description": "lolololol",
+      "price": "1222.00",
+      "discount": 100,
+      "created_at": "2024-11-10T08:03:47.047Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 10,
+    "fields": {
+      "name": "Iphone15",
+      "description": "lmao",
+      "price": "200.00",
+      "discount": 10,
+      "created_at": "2024-11-15T17:36:36.376Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 11,
+    "fields": {
+      "name": "Iphone15",
+      "description": "lmao",
+      "price": "1110.00",
+      "discount": 10,
+      "created_at": "2024-11-15T17:38:24.823Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 12,
+    "fields": {
+      "name": "phone",
+      "description": "",
+      "price": "0.00",
+      "discount": 0,
+      "created_at": "2024-11-15T17:40:17.583Z",
+      "archived": true
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 13,
+    "fields": {
+      "name": "phone",
+      "description": "",
+      "price": "10.00",
+      "discount": 0,
+      "created_at": "2024-11-15T17:41:23.622Z",
+      "archived": false
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 14,
+    "fields": {
+      "name": "phone",
+      "description": "",
+      "price": "10.00",
+      "discount": 0,
+      "created_at": "2024-11-15T17:42:11.529Z",
+      "archived": true
+    }
+  }
+]
